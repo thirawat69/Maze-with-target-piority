@@ -55,3 +55,5 @@ print( patTranform(finalPath) )
 [[9, 1], [8, 2], [7, 3], [6, 3], [5, 4]],
 [[6, 3], [5, 3], [4, 3], [3, 3], [2, 3], [1, 3], [0, 3]]]
 ```
+
+<img width="1440" alt="Screenshot 2022-03-27" src="https://github.com/thirawat69/Maze-with-target-piority/blob/main/Screenshot%202022-03-27%20.png">
