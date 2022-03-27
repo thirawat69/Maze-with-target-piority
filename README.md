@@ -6,6 +6,11 @@ But the person who wants to bring my stuff to use, he needs the coordinates (0,0
 
 In algorithm I implement with A\* algorithm.
 
+So I'm fix the map size and start point in code. Maybe future work I cane dit it.
+
+- map size is 11\*6
+- start point (10,3) in coordinates at (0,0) starting at the top left.
+
 ## Input
 
 (0,0) starting at the top left
